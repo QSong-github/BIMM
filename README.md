@@ -1,5 +1,7 @@
 # Uncovering the dynamic effects of DEX  treatment on lung cancer by integrating  bioinformatic inference and multiscale  modeling of scRNA-seq and proteomics data
 
+[![DOI](https://zenodo.org/badge/535489952.svg)](https://zenodo.org/badge/latestdoi/535489952)
+
 Dexamethasone (DEX) has shown anti-cancer efficacy and anti-estrogenic activity in human non-small cell lung cancer  (NSCLC)； hence, understanding the underlying mechanisms that affect the implementation and effectiveness of lung cancer therapeutics is vital. In this study, we combine the power of  Bioinformatics and Systems Biology to uncover functional and signaling pathways of  drug treatment using bioinformatics inference and multiscale modeling of both scRNA-seq data and  proteomics data. Here, we propose a comprehensive multiscale model of tumor regulation centered on both TGF-β-induced and ERBB-amplified signaling pathways to characterize the dynamics effects of DEX therapy on lung cancer cells. We also provided predictions of  different doses to illustrate the trend and therapeutic potential of DEX treatment, and therefore can be further applied to other computational studies in tumorigenesis and oncotherapy.
 
 ## Structure of the repository
