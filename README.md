@@ -50,3 +50,6 @@ MATLAB; R
 ## Contact
 
 If you have any further questions or suggestions, please contact [chenm@wfu.edu](mailto:chenm@wfu.edu) or [qsong@wakehealth.edu](mailto:qsong@wakehealth.edu)
+
+## Citation
+Chen M, Xu C, Xu Z, He W, Zhang H, Su J, Song Q. Uncovering the dynamic effects of DEX treatment on lung cancer by integrating bioinformatic inference and multiscale modeling of scRNA-seq and proteomics data. Computers in biology and medicine. 2022 Oct 1;149:105999.
